@@ -26,6 +26,12 @@ https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/in
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
 https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
+https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
+https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_4.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES", MCM
