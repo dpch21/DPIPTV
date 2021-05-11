@@ -1029,19 +1029,17 @@ http://skylogic.site:8080/esterichannel50con/36cb6c13/13820
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="DP@ArabBeinSports", (DP) beIN Sports News HD
 http://skylogic.site:8080/esterichannel50con/36cb6c13/1266
 
-
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/godzilla-vs-kong-2021.201814.jpg" group-title="DP@VOD IND SUB", GODZILLA VS KONG (2021) 
 http://139.99.61.223/movie/Godzilla.mkv
-
-
 
 #EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/oBgWY00bEFeZ9N25wWVyuQddbAo-185x278.jpg" group-title="DP@VOD IND SUB", Nobody (2021) 
 https://www.googleapis.com/drive/v3/files/1UZkd-vUPVrzgyQXe3keHufy5jraYo-j2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
 #EXTINF:-1 tvg-logo="http://45.148.120.131/wp-content/uploads/2021/04/1w1TVqCiEWqYnfrNUL0N1W8LAfA-185x278.jpg" group-title="DP@VOD IND SUB", The  Marksman (2021) 
 https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+++++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/DmkjfVcW/Astro-awani.jpg group-title=DP@ASTRO ASTRO AWANI
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -1096,14 +1094,68 @@ http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://207.244.239.77:25461/free/free/7825
 
 
-#EXTINF:-1 tvg-logo="http://173.212.233.209/wp-content/uploads/2021/04/vqZqO8u5IT7J9qKLf62zbS0ff3o-170x255.jpg" group-title="DP@VOD IND SUB", Pipeline (2021) 
-https://www6.playerx.stream/6748bdd2f454062e72cf09b7dc90f5d6/MjAyMS0wNC0yOA==/720.m3u8
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@VOD ADULT +18", Women Who Ride Roughly Movie19x (2021) 
-https://www570.ff-02.com/token=aprQBQAXY0qgFb3FWPx3mg/1620085149/112.215.0.0/155/6/78/8b905d87ac406d82d1537bb31314b786-720p.mp4
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18", Women Who Ride Roughly Movie19x (2021) 
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@VOD ADULT +18", Woman Caregiver (2021) 
-https://y177uid.dood.video/u5kj65j4ehh3sdgge46gyoqbjhyl5it27ozqwzwhqbss65i5wxqwbojsa3wa/xv934yszbz~OQMZ6dfErY?token=s5tdpmwjvtezvmfi1bbdynkd&expiry=1620072237512
+#EXTINF:-1 tvg-name="GAY PORN" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-name="ROUGH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", ROUGH
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-name="MILF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-name="BIG DICK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", BIG DICK
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-name="THREESOME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", THREESOME
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-name="GANGBANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", GANGBANG
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-name="INTERRACIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", INTERRACIAL
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-name="BLOWJOB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU"group-title="DP@ADULT +18" , BLOWJOB
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-name="HARDCORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", HARDCORE 
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-name="COMPILATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", COMPILATION 
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-name="ANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", ANAL
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-name="PORNSTAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", PORNSTAR 
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-name="BIG ASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU" group-title="DP@ADULT +18", BIG ASS 
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX: BEATE UHSE TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/3341
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX: BLUE HUSTLER_Website : 
+http://skylogic.site:8080/esterichannel50con/36cb6c13/37296
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX: DORCEL XXX FHD_Website : 
+http://skylogic.site:8080/esterichannel50con/36cb6c13/3283
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:Penthouse Gold HD (18+)_Website : 
+https://fullenglish.xyz:443/monte/monte123/518076
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:Evil Angel HD (18+)
+https://fullenglish.xyz:443/monte/monte123/518080
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:SEX ATION HD (18+)
+https://fullenglish.xyz:443/monte/monte123/518083
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:XY Max HD (18+)
+https://fullenglish.xyz:443/monte/monte123/518085
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:Extasy HD (18+)
+https://fullenglish.xyz:443/monte/monte123/518087
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:Pink O TV (18+)
+https://fullenglish.xyz:443/monte/monte123/518095
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/adult_channel_uk.png" group-title="DP@ADULT +18",  - XXX:Sext & Senso (18+)
+https://fullenglish.xyz:443/monte/monte123/518097
+
+
++++++++++++++++++++++++++++++++++++++++++
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="FASHION", A3 BIKINI
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
@@ -1122,31 +1174,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m
 
 
 
-#EXTINF:-1 tvg-name="GAY PORN" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-name="ROUGH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", ROUGH
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-name="MILF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-name="BIG DICK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BIG DICK
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-name="THREESOME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", THREESOME
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-name="GANGBANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", GANGBANG
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-name="INTERRACIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", INTERRACIAL
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-name="BLOWJOB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BLOWJOB
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-name="HARDCORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", HARDCORE 
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-name="COMPILATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", COMPILATION 
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-name="ANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", ANAL
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-name="PORNSTAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", PORNSTAR 
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-name="BIG ASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCvPVxTBbrbopbFORr4YxH53lVyr-HRjXQ&usqp=CAU", BIG ASS 
-http://cdn.adultiptv.net/bigass.m3u8
+
 
 
