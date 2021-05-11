@@ -730,6 +730,18 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157596
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="MOVIES", KIX ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165068
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://i.imgur.com/oi83ML8.jpg" group-title="DP@PENGETAHUAN",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="DP@PENGETAHUAN",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="MOVIES",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES", HITS ID
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165085
 
