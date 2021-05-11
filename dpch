@@ -786,8 +786,7 @@ http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
-#EXTINF:-1 tvg-logo="TEST" group-title="MOVIES",CINEMAX ASIA (SUB, AUDIO) 
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/cinemax_multi_bahasa.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="MOVIES",CINEMAX ASIA 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-classic-in.png" group-title="MOVIES", (DP)  ZEE CLASSIC HD _GROUP
