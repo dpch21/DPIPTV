@@ -1100,6 +1100,8 @@ http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png ASTRO BOX OFFICE
 http://207.244.239.77:25461/free/free/7825
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/playboy_tv_us.png" group-title="DP@ADULT+18", PLAYBOY TV EUROPE
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/67686
 
 #EXTINF:-1 tvg-name="GAY PORN" tvg-logo="https://en.kingofsat.net/jpg/gaytv.jpg", GAY PORN
 http://cdn.adultiptv.net/gay.m3u8
