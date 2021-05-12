@@ -786,8 +786,8 @@ http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES", (DP)  ZQ DRAMA _GROUP
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES", HBO ID
-http://nonton.site:8888/ko Amat/123456/4828
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES", HBO SIG ASIA
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",CINEMAX ASIA 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
