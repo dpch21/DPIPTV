@@ -787,7 +787,6 @@ http://stream.tvtap.live:8081/live/maction.stream/chunks.m3u8
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES", HBO ID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://nonton.site:8888/ko Amat/123456/4828
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="MOVIES",CINEMAX ASIA 
