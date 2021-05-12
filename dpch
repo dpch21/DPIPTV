@@ -14,23 +14,24 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
-https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8
+https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
-https://d3u7f2c3yddrxc.cloudfront.net/out/v1/3f2878ed33c349e988b28548a54a5d94/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  
+https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 2 HD
+https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 2 BURIK  
+https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 HD
 https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 BURIK  
 https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
-https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  HD
-https://d1oazx2tvmyimz.cloudfront.net/out/v1/bbc3aaff7d6b4c94b0adfb02a97a67a7/index_4.m3u8
 
 
 
