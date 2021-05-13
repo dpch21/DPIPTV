@@ -13,6 +13,16 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
+http://cc210b6aa55c.sn.mynetname.net/vidio/champion-tv-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
+http://cc210b6aa55c.sn.mynetname.net/vidio/champion-tv-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
+http://cc210b6aa55c.sn.mynetname.net/vidio/champion-tv-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
 https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_1.m3u8
 
@@ -991,16 +1001,6 @@ http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc-sports-id.png" group-title="DP@SPORT", MNC SPORT
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157589
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
-https://etslive-2-vidio-com.akamaized.net/exp=1620463375~acl=/hls-p/ingest_6685_*/*~hmac=f90714d054130e4d16ecd05c7f971631d2e3eb6b6f240d69b984e8e17a6c3012/hls-p/ingest_6685_720p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 2
-https://etslive-2-vidio-com.akamaized.net/exp=1620463481~acl=/hls-p/ingest_6686_*/*~hmac=3ce639a7f564d0ed1d53311866430a714f148193f7de59d5ffc6cd7c0a150888/hls-p/ingest_6686_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us.png"group-title="DP@SPORT", (DianPhotograph) TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
