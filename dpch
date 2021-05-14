@@ -57,9 +57,9 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" group-title="MOVIES",VISION PRIME
-https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_dash_vmx/DramaChannel.mpd
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES", MCM
