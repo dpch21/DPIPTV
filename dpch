@@ -1172,7 +1172,21 @@ http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png ASTRO BOX OFFICE
 http://207.244.239.77:25461/free/free/7825
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA", NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA", NBA LIVE 1
+http://g.givemenbastreams.com:80/hls/hornets/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA", NBA LIVE 2
+http://g.givemenbastreams.com:80/hls/pacers/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA", NBA LIVE 3
+http://g.givemenbastreams.com:80/hls/tnt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA", NBA LIVE 4
+http://g.givemenbastreams.com:80/hls/hawks/chunks.m3u8
+ 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg" group-title="FASHION", A3 BIKINI
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
