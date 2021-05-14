@@ -729,12 +729,23 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="DP@LOKAL", (DP) TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="DP@Korea TV", K Plus
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="DP@KOREA", K Plus
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@Korea TV", KBS World HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@KOREA", KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc_kr.png" group-title="DP@KOREA", JTBC
+http://112.170.47.242:83/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=OANLA7MNOY
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-kr.png" group-title="DP@KOREA", MBC K
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=OANLA7MNOY
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs_kr.png" group-title="DP@KOREA", SBS
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OANLA7MNOY
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png" group-title="DP@KOREA", KBS 2
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=OANLA7MNOY
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="MOVIES", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
