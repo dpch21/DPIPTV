@@ -929,6 +929,19 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="DP ASTRO@SUPER SPORT",  ASSP1 BACKUP
+http://iptv.tvmalaysia.cc/932633/932633/6708 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="DP ASTRO@SUPER SPORT",  ASSP2 BACKUP
+http://iptv.tvmalaysia.cc/932633/932633/6710 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", ASSP3 BACKUP
+http://iptv.tvmalaysia.cc/932633/932633/6711 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT",  ASSP4 BACKUP
+http://iptv.tvmalaysia.cc/932633/932633/6712
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90Mmzg75/1280px-Sky-Sport-HD-1-Corner-2011-svg.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1 HD
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
 
