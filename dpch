@@ -55,6 +55,9 @@ http://2.adnaraoun.xyz/live/97848484/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="MOVIES", SONY PIX HD
+http://iptv.tvmalaysia.cc/932633/932633/8213
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="MOVIES", FOX ACTION MOVIES
 http://iptv.tvmalaysia.cc/932633/932633/7063
