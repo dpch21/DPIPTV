@@ -492,11 +492,44 @@ http://122.248.43.138:1935/ch20/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8NMW8jT/dian.png" group-title="DpCh@Television_INDONESIAN", (DP) Dayak tv
 http://122.248.43.138:1935/ch26/myStream/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="DP@LOKAL", (DP) MNCTV
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="DP@LOKAL", (DP) CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="DP@LOKAL", (DP) ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="DP@LOKAL", (DP) INDOSIAR
+http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="DP@LOKAL", (DP) iNEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="DP@LOKAL", (DP) METRO TV
+http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="DP@LOKAL", (DP) NET.
+http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="DP@LOKAL", (DP) RCTI
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="DP@LOKAL", (DP) TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="DP@LOKAL", (DP) TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="DP@LOKAL", (DP) RCTI
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="DP@LOKAL", (DP) SCTV
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="DP@LOKAL", (DP) TVONE
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162507
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="DP@LOKAL", (DP) ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -518,9 +551,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="DP@LOKAL", (DP) CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="DP@LOKAL", (DP) CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="DP@LOKAL", (DP) DAAI TV
 http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
@@ -548,12 +578,6 @@ https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hiindo.png" group-title="DP@LOKAL", (DP) Hi Indo
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="DP@LOKAL", (DP) iNEWS
-https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="DP@LOKAL", (DP) INDOSIAR
-http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="DP@LOKAL", (DP) JAK TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
@@ -589,12 +613,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mcc.png" group-title="DP@LOKAL", (DP) MCC
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="DP@LOKAL", (DP) METRO TV
-http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="DP@LOKAL", (DP) MNCTV
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="DP@LOKAL", (DP) MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
@@ -604,14 +622,8 @@ http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="DP@LOKAL", (DP) NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="DP@LOKAL", (DP) NET.
-http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="DP@LOKAL", (DP) Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="DP@LOKAL", (DP) RCTI
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="DP@LOKAL", (DP) RODJA TV
 http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
@@ -625,8 +637,6 @@ http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ruangterampil.png" group-title="DP@LOKAL", (DP) Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="DP@LOKAL", (DP) SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="DP@LOKAL", (DP) SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
@@ -637,17 +647,9 @@ http://wms.klikhost.com/tegartv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tic.png" group-title="DP@LOKAL", (DP) The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="DP@LOKAL", (DP) TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="DP@LOKAL", (DP) TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="DP@LOKAL", (DP) TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="DP@LOKAL", (DP) TVONE
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162507
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="DP@LOKAL", (DP) Usee Photo
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
