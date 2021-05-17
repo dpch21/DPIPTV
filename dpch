@@ -1374,8 +1374,35 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/miami_tv_us.png" group-title="FASHION", MIAMI TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Bioskop Indonesia
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=bioskopindonesia
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) ZBioskop
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=zbioskop
 
-re
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) TVN
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=tvn
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) TVN MOVIES
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=tvnmovies
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Thrill
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=thrill
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Celestial Movie
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=celestialmovie
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Cinema World
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=cinemaworld
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Flik
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=flik
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Galaxy
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=galaxy
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) Galaxy Premium
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=galaxypremium
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="DP@MOVIES(USEE/VIDIO) ", (DP) IMC
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=imc
