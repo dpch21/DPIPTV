@@ -795,6 +795,12 @@ http://iptv.tvmalaysia.cc/932633/932633/8223
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg" group-title="DP@TATA SKY", SONY SIX HD
 http://iptvtree.net:8080/mariconigliar0/30d5055e/4853
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4P4KX8t/Logo-be-IN-SPORTS-MAX.png" group-title="DP@TATA SKY", BEIN SPORT MAX
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/33
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="DP@TATA SKY", BEIN SPORT EXTRA
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/13
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="MOVIES", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
