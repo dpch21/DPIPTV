@@ -1394,4 +1394,62 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/miami_tv_us.png" group-title="FASHION", MIAMI TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
+http://rec2.distv.net:80/aurora/123456/124
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="DP@KIDS", BABY TV
+http://rec2.distv.net:80/aurora/123456/117
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL
+http://rec2.distv.net:80/aurora/123456/138
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="DP@KIDS", DISNEY JR 
+http://rec2.distv.net:80/aurora/123456/139
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="DP@KIDS", DISNEY XD
+http://rec2.distv.net:80/aurora/123456/140
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/natgeokids.png" group-title="DP@KIDS", NAT GEO KIDS
+http://rec2.distv.net:80/aurora/123456/173
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/zoomoo.png" group-title="DP@KIDS", ZOOMOO
+http://rec2.distv.net:80/aurora/123456/244
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/tooncast.png" group-title="DP@KIDS", TOONCAST 
+http://rec2.distv.net:80/aurora/123456/203
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="DP@KIDS", NICK
+http://rec2.distv.net:80/aurora/123456/175
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nickjr.png" group-title="DP@KIDS", NICK JR
+http://rec2.distv.net:80/aurora/123456/176
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL HD (CA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7196
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="DP@KIDS", DISNEY JUNIOR (CA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7197
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="DP@KIDS", DISNEY XD FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7198
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="DP@KIDS", BOOMERANG (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7199
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", Cartoon Network FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7200
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", Nickelodeon (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7201
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", Nickelodeon FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7202
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", Baby First  FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7203
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", STARZ Kids & Family FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7204
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/KIDSDPCH.jpg" group-title="DP@KIDS", Universal Kids FHD (USA)
+http://iptv.tvmalaysia.cc:80/139664/139664/7205
