@@ -1345,6 +1345,12 @@ https://nonton.site:8443/6894864475/7163819284/37398
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/qM0yrSNp/vinmeen.jpg ,  VINMEEN HD
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png ,  COLORS TAMIL
+http://iptv.tvmalaysia.cc:80/139664/139664/6716
+
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png ,  COLORS 
+http://iptv.tvmalaysia.cc:80/139664/139664/6769
+
 
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/Z55NBNPg/Astro-Xiao-Tai-Yang.png , XIAO TAI YANG
 http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
