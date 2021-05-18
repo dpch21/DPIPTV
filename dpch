@@ -1306,16 +1306,22 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6740
 #EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/Dyt4XzyH/aec.png ,  AEC
 http://iptv.tvmalaysia.cc:80/139664/139664/6701
 
-#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/X7Q3JBYp/Astroaodlogo.png ,  AOD
+#EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/X7Q3JBYp/Astroaodlogo.png ,  AOD
 http://iptv.tvmalaysia.cc:80/139664/139664/6702
 
-#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/hGmH9Xc8/Bolly-One-HD-Logo-Eng.png ,  Bollyone HD
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  NAURA
+http://iptv.tvmalaysia.cc:80/139664/139664/6724
+
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png ,  CITRA
+http://iptv.tvmalaysia.cc:80/139664/139664/7267
+
+#EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/hGmH9Xc8/Bolly-One-HD-Logo-Eng.png ,  Bollyone HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6754
 
 #EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/x1wZT9MX/N5hOBhdY.jpg , VAANAVIL
 http://iptvtree.net:8080/44444/4506fd18/201163
 
-#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/RZHPY2y4/Astro-Hua-Hee-Dailogo.png , HUA HEE DAI HD
+#EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/RZHPY2y4/Astro-Hua-Hee-Dailogo.png , HUA HEE DAI HD
 http://iptvtree.net:8080/44444/4506fd18/247424
 
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png , QUAN JIA HD
