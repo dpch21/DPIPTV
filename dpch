@@ -1275,6 +1275,37 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/x6ncnrL/pptv.png",DP@ PPTV
 https://www.livedoomovies.com/02_PPTVHD*_720p/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/DmkjfVcW/Astro-awani.jpg group-title=DP@ASTRO ,  ASTRO AWANI
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:0 tvg-logo=https://i.postimg.cc/HWvJ863C/Astro-Rania-NEW.png group-title=DP@ASTRO , Rania HD
+http://iptv.tvmalaysia.cc/live/penang172/penang172/6729.m3u8
+
+#EXTINF:0 tvg-logo=https://i.postimg.cc/ZRKRCNdR/Astro-Aura-NEW.png group-title=DP@ASTRO , Aura HD
+http://iptv.tvmalaysia.cc/live/penang172/penang172/6713.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/cL1jvWSY/Astro-Ceria.png group-title=DP@ASTRO , CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/437WcNFK/Astro-Oasis.png group-title=DP@ASTRO , OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/65pLRp89/Astro-Prima.png group-title=DP@ASTRO , PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/pVG5wYdH/Astro-Ria.png group-title=DP@ASTRO”,  RIA
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/8C4zhNJS/Astro-Warna-NEW.png group-title=DP@ASTRO , WARNA
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+
+
 #EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/Dyt4XzyH/aec.png ,  AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 https://nonton.site:8443/6894864475/7163819284/37352
