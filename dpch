@@ -526,7 +526,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="DP@LOKAL", (DP) GTV
-https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="DP@LOKAL", (DP) SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
