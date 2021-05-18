@@ -32,6 +32,9 @@ http://iptv.tvmalaysia.cc/932633/932633/7075
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="DP@PENGETAHUAN",  (Dian Photograph) HISTORY FHD (ID) 
 http://iptv.tvmalaysia.cc/932633/932633/7079
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="DP@KIDS", DA VINCI 
+https://livestreaming-google-etslive.vidio.com/live/6549/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
 https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_1.m3u8
 
@@ -1403,8 +1406,6 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
 http://rec2.distv.net:80/aurora/123456/124
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="DP@KIDS", DA VINCI KIDS
-https://livestreaming-google-etslive.vidio.com/live/6549/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="DP@KIDS", BABY TV
 http://rec2.distv.net:80/aurora/123456/117
