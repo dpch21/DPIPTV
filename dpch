@@ -944,6 +944,12 @@ http://stream.tvtap.live:8081/live/it-skysport-f1_new.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RdcvtZG/images-1.jpg" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT F1 HD (UK) 
 http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT MAIN EVENTS (UK) 
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT NEWS (UK) 
+http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8
+
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="DP@SPORT", (DianPhotograph) BEIN 1 HD
 http://iptvlink.ga:8888/live/nasvpn/prem/787.m3u8
