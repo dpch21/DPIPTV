@@ -1302,6 +1302,8 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6730
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/8C4zhNJS/Astro-Warna-NEW.png group-title=DP@ASTRO , WARNA
 http://iptv.tvmalaysia.cc:80/139664/139664/6740
 
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/bb/boo_my.png group-title=DP@ASTRO , BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/Dyt4XzyH/aec.png ,  AEC
 http://iptv.tvmalaysia.cc:80/139664/139664/6701
