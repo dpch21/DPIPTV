@@ -106,12 +106,17 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
+https://www.dropbox.com/s/j5tvufp5owf7l31/Video_20210320_142848.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="DpCh@Television_INDONESIAN", (DP) RCTI
@@ -1128,77 +1133,77 @@ https://www.googleapis.com/drive/v3/files/1UZkd-vUPVrzgyQXe3keHufy5jraYo-j2?alt=
 https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ++++++++++++++++++++++++++++++++++++++++++++
-#EXTM3U
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://cdn.mingguanwanita.my/2020/02/astro-ria-saluran-05_07_661855.png",DP@ ASTRO RAI
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://cdn.mingguanwanita.my/2020/02/astro-ria-saluran-05_07_661855.png",(DP) ASTRO RAI
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ ASTRO VINMEENT
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) ASTRO VINMEENT
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ CHUAN CIA
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) CHUAN CIA
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ SONY MOVIES ACTION
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) SONY MOVIES ACTION
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ SHUANG XING
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) SHUANG XING
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ TVB 星河台
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) TVB 星河台
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ HBOOo
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) HBOOo
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png",DP@ HBO Family
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png",(DP) HBO Family
 https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png",DP@ HBO Signature
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png",(DP) HBO Signature
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png",DP@ Cinemax by HBO
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png",(DP) Cinemax by HBO
 https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://macan.live/img/red_hbo.png",DP@ RED by HBO
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://macan.live/img/red_hbo.png",(DP) RED by HBO
 https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png",DP@ HBO Hits
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png",(DP) HBO Hits
 https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ TLC
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 婢抽棬鍗槦鍙�
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 婢抽棬鍗槦鍙�
 http://61.244.22.5/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ NHK鍗庤瑙�
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) NHK鍗庤瑙�
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 鍑ゅ嚢棣欐腐鍙�
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 鍑ゅ嚢棣欐腐鍙�
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 鍑ゅ嚢璧勮
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 鍑ゅ嚢璧勮
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 鍑ゅ嚢鍗涓枃鍙�
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 鍑ゅ嚢鍗涓枃鍙�
 http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 鍑ゅ嚢棣欐腐鍙癏D
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 鍑ゅ嚢棣欐腐鍙癏D
 http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 鍑ゅ嚢鍗棣欐腐鍙�
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 鍑ゅ嚢鍗棣欐腐鍙�
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ 槌冲嚢棣欐腐
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) 槌冲嚢棣欐腐
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ TV2
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ JADE TV
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) JADE TV
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ Awani
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) Awani
 https://bcsecurelivehls-i.akamaiHD*.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ BeritaHK
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) BeritaHK
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ ViuTv
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) ViuTv
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ HolywoodMovie
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) HolywoodMovie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ BolywoodTv
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) BolywoodTv
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ WauHD*
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) WauHD*
 http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ Movietime
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) Movietime
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ Setanta
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ Kix
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) Kix
 https://livecdn.fptplay.net/HD*a/kixHD*_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ MakkahTv
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) MakkahTv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ FoxMovies
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) FoxMovies
 https://livecdn.fptplay.net/foxlive/foxmoviesHD*_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DP@Malaysia" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",DP@ AstroCNA
+#EXTINF:-1 group-title="ASTRO BACKUP" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",(DP) AstroCNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sports-my.png",DP@ RTM Sports
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="MALAYSIA",DP@ TV1
