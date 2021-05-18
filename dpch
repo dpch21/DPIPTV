@@ -1397,17 +1397,29 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
 http://rec2.distv.net:80/aurora/123456/124
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="DP@KIDS", DA VINCI KIDS
+https://livestreaming-google-etslive.vidio.com/live/6549/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="DP@KIDS", BABY TV
 http://rec2.distv.net:80/aurora/123456/117
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL (ID)
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL
 http://rec2.distv.net:80/aurora/123456/138
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="DP@KIDS", DISNEY JR (ID)
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="DP@KIDS", DISNEY JR 
 http://rec2.distv.net:80/aurora/123456/139
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="DP@KIDS", DISNEY XD
 http://rec2.distv.net:80/aurora/123456/140
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="DP@KIDS", DISNEY XD (USA)
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/natgeokids.png" group-title="DP@KIDS", NAT GEO KIDS
 http://rec2.distv.net:80/aurora/123456/173
