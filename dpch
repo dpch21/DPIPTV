@@ -779,8 +779,11 @@ http://iptv.tvmalaysia.cc/932633/932633/8222
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="DP@TATA SKY", SONY TEN 3
 http://iptv.tvmalaysia.cc/932633/932633/8223
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="DP@TATA SKY", STAR SPORT SELECT 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="DP@TATA SKY", STAR SPORTS 1 HD
 http://iptv.tvmalaysia.cc/932633/932633/8231
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="DP@TATA SKY", STAR SPORTS 2 HD
+http://iptv.tvmalaysia.cc/932633/932633/8230
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg" group-title="DP@TATA SKY", SONY SIX HD
 http://iptvtree.net:8080/mariconigliar0/30d5055e/4853
