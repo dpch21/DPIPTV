@@ -1602,6 +1602,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/miami_tv_us.png" group-title="FASHION", MIAMI TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="DP@KIDS", ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
 http://rec2.distv.net:80/aurora/123456/124
 
