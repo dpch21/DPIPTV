@@ -644,10 +644,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="DP@LOKAL", (DP) Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="DP@LOKAL", (DP) ZQ Drama
+EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="DP@LOKAL", (DP) ZQ Drama
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="DP@LOKAL", (DP) ZQ Sport
+EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/zqtv.png" group-title="DP@LOKAL", (DP) ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="DP@LOKAL", (DP) TVRI
@@ -1485,54 +1485,6 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/zqtv.png",DP@ ZQ Drama
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbs2.imgbox.com/51/b3/QyrZBaeB_t.jpg",DP@ ZQ Sport
-http://iptv.zqstream.com/zqsport-gen/video.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbs2.imgbox.com/46/fd/DSQoDBVv_t.jpg",DP@ TVRI Sports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg",DP@ Fox Sports1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg",DP@ Fox Sports2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg",DP@ Fox Sports3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png",DP@ Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png",DP@ Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbs2.imgbox.com/c3/74/11OHSgGv_t.jpg",DP@ Champions TV 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbs2.imgbox.com/ac/de/2S31rdHB_t.jpeg",DP@ Persija
-http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de.png",DP@ CCTV 5
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png",DP@ CCTV 5+
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",DP@ NBA TV
-https://www.livedoomovie.com/02_nbaHD*_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png",DP@ **NBC SPORTS NETWORK HD*
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbs2.imgbox.com/36/9a/UbbZPN44_t.png",DP@ Golf HD*
-https://www.livedoomovies.com/02_golfHD*_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png",DP@ Golf HD*
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png",DP@ T Sports
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t_sports.png",DP@ Sports
-http://live.sportstv.com.tr/hls/low/sportstv_HD*/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_HD*.png",DP@ FightBox
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png",DP@ Motorvision TV
-http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/6112/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dusktill.masuk.web.id/img/seatoday.png",DP@ STD Sport
-https://stadiumlivein-i.akamaiHD*.net/hls/live/522512/mux_4/master_2000k.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",DP@ Eleven Sports 1 HD*
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",DP@ Eleven Sports 2 HD*
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/x6ncnrL/pptv.png",DP@ PPTV
-https://www.livedoomovies.com/02_PPTVHD*_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/DmkjfVcW/Astro-awani.jpg group-title=DP@ASTRO ,  ASTRO AWANI
