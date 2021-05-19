@@ -1642,6 +1642,9 @@ http://rec2.distv.net:80/aurora/123456/175
 #EXTINF:-1 tvg-logo="http://distv.net/icons/nickjr.png" group-title="DP@KIDS", NICK JR
 http://rec2.distv.net:80/aurora/123456/176
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/biggs_pt.png" group-title="DP@KIDS", BIGSS TV (POR)
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/1439?checkedby:zaltv.co
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL HD (CA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7196
 
