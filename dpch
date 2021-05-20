@@ -1621,7 +1621,7 @@ http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="DP@HBO & FOX SUB INDO", HBO FAMILY  FHD
-https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197055
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png" group-title="DP@HBO & FOX SUB INDO", RED By HBO  HD
 http://iptv.tvmalaysia.cc/932633/932633/7071
@@ -1642,7 +1642,7 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="DP@HBO & FOX SUB INDO", FOX CINEMAX HD
-http://iptv.tvmalaysia.cc/932633/932633/7062
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 ++++++++++++++++++++++++++++++++++
 
