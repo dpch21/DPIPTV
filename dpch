@@ -1609,6 +1609,44 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://rec2.distv.net:80/aurora/123456/124
 
 
+++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="DP@HBO & FOX SUB INDO", HBO SIGNATURE HD
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="DP@HBO & FOX SUB INDO", HBO HD
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="DP@HBO & FOX SUB INDO", HBO HITS  HD
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="DP@HBO & FOX SUB INDO", HBO FAMILY  FHD
+https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_by_hbo_us.png" group-title="DP@HBO & FOX SUB INDO", RED By HBO  HD
+http://iptv.tvmalaysia.cc/932633/932633/7071
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="DP@HBO & FOX SUB INDO", FOX MOVIES HD
+http://iptv.tvmalaysia.cc/932633/932633/7064
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="DP@HBO & FOX SUB INDO", FOX ACTION MOVIES HD
+http://iptv.tvmalaysia.cc/932633/932633/7063
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png" group-title="DP@HBO & FOX SUB INDO", FOX HD
+http://iptv.tvmalaysia.cc/932633/932633/7227
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="DP@HBO & FOX SUB INDO", FOX LIFE HD
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="DP@HBO & FOX SUB INDO", FOX CRIME HD
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="DP@HBO & FOX SUB INDO", FOX CINEMAX HD
+http://iptv.tvmalaysia.cc/932633/932633/7062
+
+++++++++++++++++++++++++++++++++++
+
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/babytv.png" group-title="DP@KIDS", BABY TV
 http://rec2.distv.net:80/aurora/123456/117
 
