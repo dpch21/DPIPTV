@@ -116,7 +116,7 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) SCTV
-https://www.dropbox.com/s/j5tvufp5owf7l31/Video_20210320_142848.mp4?dl=1
+https://etslive-2-vidio-com.akamaized.net/exp=1621512012~acl=/hls-b/ingest_204_*/*~hmac=7348f0174436064de201b3d56792d59e0cccce935bf89a4d80bd074f41ed8367/hls-b/ingest_204_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="DpCh@Television_INDONESIAN", (DP) MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
@@ -150,7 +150,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="DpCh@Television_INDONESIAN", (DP) METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="DpCh@Television_INDONESIAN", (DP) TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
