@@ -12,8 +12,7 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
+#EXTI1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
 http://cc210b6aa55c.sn.mynetname.net/vidio/champion-tv-1.m3u8
 
 
@@ -517,7 +516,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 http://chostv.mobie.in/files/iptv/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="DP@LOKAL", (DP) INDOSIAR
-http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="DP@LOKAL", (DP) iNEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
@@ -526,7 +525,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-m
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="DP@LOKAL", (DP) NET.
-http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8
+https://live-birutv.com/usee@live/GO_playlist.m3u8?channel=net
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="DP@LOKAL", (DP) RCTI
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
