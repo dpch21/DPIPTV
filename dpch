@@ -70,6 +70,12 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="MOVIES", SONY PIX HD
 http://iptv.tvmalaysia.cc/932633/932633/8213
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="MOVIES", AXN MOVIES (POR) 
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/1471
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-25-ph.png" group-title="MOVIES", EAGLE CINEMA HD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/148178
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="MOVIES", FOX ACTION MOVIES
 http://iptv.tvmalaysia.cc/932633/932633/7063
