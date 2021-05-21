@@ -12,7 +12,8 @@ https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", http://te.me/dianphotograph
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
-#EXTI1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="DP@SPORT", (DianPhotograph) Champions TV 1
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 
 
