@@ -134,7 +134,7 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="DpCh@Television_INDONESIAN", (DP) INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -543,7 +543,7 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157591
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="DP@LOKAL", (DP) SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="DP@LOKAL", (DP) TVONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
