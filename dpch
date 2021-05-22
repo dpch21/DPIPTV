@@ -14,7 +14,7 @@ http://mantul.biz.id:8888/gibran/gibran/23
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Selamat Menunaikan Ibadah Puasa) 
+EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Selamat Menunaikan Ibadah Puasa) 
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="LIVE", (Stanby disini) 
@@ -48,33 +48,33 @@ http://iptv.tvmalaysia.cc/932633/932633/7079
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="DP@PENGETAHUAN", DA VINCI 
 https://livestreaming-google-etslive.vidio.com/live/6549/master.m3u8
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
-https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 HD
+https://d2hlh3cfn00706.cloudfront.net/out/v1/2f386e82fcd44df7bb6546436bc2de1a/index_1.m3u8
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 1 BURIK  
 https://d3o6rtm1gf4dpy.cloudfront.net/out/v1/b88b6e6894d04189bdbe6f3f05468288/index_4.m3u8
 
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 2 HD
-https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 2 HD
+https://d1i89bk0uv5wap.cloudfront.net/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index_1.m3u8
 
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 2 BURIK  
 https://d30tho09timqkb.cloudfront.net/out/v1/e9aa749a29a34ba59e6a2e9b70dbe138/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 HD
-http://7.abdakaroukhai.xyz/live/645587700/index.m3u8
+https://d1wz6zummv1gcq.cloudfront.net/out/v1/c21351bd96f24818ad51d0112f229e5d/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 SD  
+XTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN 3 SD  
 http://3.abdakaroukhai.xyz/live/161988840/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL HD 
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL HD 
 http://adnaraoun.xyz/live/6161655/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL SD
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL SD
 http://adnaraoun.xyz/live/88824257/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL BURIK
+EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL BURIK
 http://5.abdakaroukhai.xyz/live/97848484/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
