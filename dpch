@@ -1004,6 +1004,32 @@ http://iptv.tvmalaysia.cc/932633/932633/6711
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="DP ASTRO@SUPER SPORT",  ASSP4 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6712
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4JtqSCD/IMG-20210114-091649.png" group-title="DP@SKY SPORTS", (DP) Sky Sports
+Actionhttp://iptv.tvmalaysia.cc:80/penang172/penang172/6616
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKg73qCT/unnamed-16.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6617
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PC58Yxm/download-18.png" group-title="DP@SKY SPORTS", (DP) Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmwmGFny/unnamed-17.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Football
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6620
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6621
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0B8JwYQ/510847b9d9ef7baa0ecca6dcee2da7d2.png" group-title="DP@SKY SPORTS", (DP) Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6619
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7114
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7115
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="DP@SKY SPORTS", (DP) Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7116
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90Mmzg75/1280px-Sky-Sport-HD-1-Corner-2011-svg.png" group-title="DP@SKY SPORTS",  (Dian Photograph) SKY SPORT 1 HD
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
