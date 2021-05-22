@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39083
+#EXTINF:-1 tvg-id="" tvg-name="NBA 3  MATCH EVENT" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA 3  MATCH EVENT
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39095
+#EXTINF:-1 tvg-id="" tvg-name="NBA 6  MATCH EVENT" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",NBA 6  MATCH EVENT
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/39096
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nba-tv-logo.png" group-title="DP@NBA",NBA TV
+http://mantul.biz.id:8888/gibran/gibran/23
+#EXTINF:-1 tvg-id="" tvg-name="Nba Tv Asia" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="DP@NBA",Nba Tv Asia
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1Kn3meWkwRw/YH6Mly6ksgI/AAAAAAAABCE/W7nC4Og5Zp0oGnGbK-hfKgsYfw_rgXPJgCLcBGAsYHQ/s0/dian.png" group-title="", (Selamat Menunaikan Ibadah Puasa) 
 https://www.dropbox.com/s/qokot61ee4gsb49/My%20Video.mp4?dl=1
 
