@@ -799,8 +799,14 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="DP@KOREA", KBS World HD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc_kr.png" group-title="DP@KOREA", JTBC
-http://112.170.47.242:83/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=OANLA7MNOY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs-plus-kr.png" group-title="DP@KOREA", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/image.php?serial=77807246" group-title="DP@KOREA", SBS INTERNATIONAL
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Xxxnsy/image-1621650927440.jpg" group-title="DP@KOREA", SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-kr.png" group-title="DP@KOREA", MBC K
 http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=OANLA7MNOY
