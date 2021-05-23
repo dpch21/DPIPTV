@@ -904,6 +904,9 @@ http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OAN
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png" group-title="DP@KOREA", KBS 2
 http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=OANLA7MNOY
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_drama.png" group-title="DP@KOREA", KBS DRAMA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/348520
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="DP@TATA SKY", SONY TEN 1
 http://iptv.tvmalaysia.cc/932633/932633/8216
 
