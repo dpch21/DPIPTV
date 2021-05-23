@@ -1269,9 +1269,9 @@ http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="DP@SPORT", RAI SPORT+ HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/63234
+http://cloudcdn.tk:80/FrankKnosch/60iPag89/14202
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="DP@SPORT", RAI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_1.png" group-title="DP@SPORT", RAI SPORT 1
 http://cloudcdn.tk:80/FrankKnosch/60iPag89/14201
 
 
