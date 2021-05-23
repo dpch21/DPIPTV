@@ -159,6 +159,29 @@ https://d2hlh3cfn00706.cloudfront.net/out/v1/2f386e82fcd44df7bb6546436bc2de1a/in
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL BURIK
 https://d2hlh3cfn00706.cloudfront.net/out/v1/2f386e82fcd44df7bb6546436bc2de1a/index_4.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 2 HD 
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 2 SD
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 2 BURIK
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index_4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 3 HD 
+https://d1i89bk0uv5wap.cloudfront.net/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 3 SD
+https://d1i89bk0uv5wap.cloudfront.net/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="LIVE", (DianPhotograph) BEIN EPL 3 BURIK
+https://d1i89bk0uv5wap.cloudfront.net/out/v1/e70d2c04f4ab4f23aef5b565a45f0971/index_4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/flix_us_east.png" group-title="MOVIES", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
