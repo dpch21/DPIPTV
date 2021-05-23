@@ -935,16 +935,16 @@ http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OAN
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png" group-title="DP@KOREA", KBS 2
 http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=OANLA7MNOY
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png" group-title="DP@KOREA", KBS 2 BACKUP
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-2-tv-kr.png" group-title="DP@KOREA", KBS 2 BACKUP
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/kk/kbs.png" group-title="DP@KOREA", KBS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/kk/kbs.png" group-title="DP@KOREA", KBS
 http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="DP@KOREA", ViuTv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="DP@KOREA", ViuTv
 http://61.238.6.49:8000/bysid/99
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="DP@KOREA", ViuTv6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="DP@KOREA", ViuTv6
 http://61.238.6.49:8000/bysid/96
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-kr.png" group-title="DP@KOREA", MBC
