@@ -83,6 +83,11 @@ https://mkctv.my.id/jusenak/useetv.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" group-title="DP@USEE TV", (DP) eGG TV
 https://mkctv.my.id/jusenak/useetv.m3u8?id=egg
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="DP@USEE TV", Animax ID
+https://mkctv.my.id/jusenak/useetv.m3u8?id=animax
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="DP@USEE TV",  AniPlus ID
+https://mkctv.my.id/jusenak/useetv.m3u8?id=aniplus
 
 
 
