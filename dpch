@@ -1268,6 +1268,13 @@ http://stream.tvtap.live:8081/live/it-milantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="DP@SPORT", RAI SPORT+
 http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="DP@SPORT", RAI SPORT+ HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/63234
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="DP@SPORT", RAI SPORT 1
+http://cloudcdn.tk:80/FrankKnosch/60iPag89/14201
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="DP@SPORT", Bein Laliga SD
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
@@ -2262,6 +2269,13 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6730
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/8C4zhNJS/Astro-Warna-NEW.png group-title=DP@ASTRO , WARNA
 http://iptv.tvmalaysia.cc:80/139664/139664/6740
 
+
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png group-title=DP@ASTRO , iQIYI HD
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png group-title=DP@ASTRO , iQIYI HD Backup
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+
 #EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/bb/boo_my.png group-title=DP@ASTRO , BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
@@ -2271,8 +2285,33 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6701
 #EXTINF:-1 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/X7Q3JBYp/Astroaodlogo.png ,  AOD
 http://iptv.tvmalaysia.cc:80/139664/139664/6702
 
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH351
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH352
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH353
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH354
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title=DP@ASTRO, (DP) Astro AOD CH355
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  NAURA
 http://iptv.tvmalaysia.cc:80/139664/139664/6724
+
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  HELLO! 
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  HELLO! BACKUP
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:0 group-title=DP@ASTRO tvg-logo=https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png ,  CITRA
 http://iptv.tvmalaysia.cc:80/139664/139664/7267
