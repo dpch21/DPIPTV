@@ -2404,6 +2404,9 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="DP@KIDS", CARTOON NETWORK
 http://rec2.distv.net:80/aurora/123456/124
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_yoyo.png" group-title="DP@KIDS", RAI YOYO
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/907
+
 
 ++++++++++++++++++++++++++++++++++
 
@@ -2448,6 +2451,9 @@ http://rec2.distv.net:80/aurora/123456/117
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL (ID)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png" group-title="DP@KIDS", DISNEY XD EAST
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274544
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="DP@KIDS", DISNEY CHANNEL
 http://rec2.distv.net:80/aurora/123456/138
